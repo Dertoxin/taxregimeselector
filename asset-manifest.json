@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/taxregimeselector/static/css/main.31d6cfe0.css",
-    "main.js": "/taxregimeselector/static/js/main.e23d079d.js",
+    "main.js": "/taxregimeselector/static/js/main.44a6435f.js",
     "index.html": "/taxregimeselector/index.html",
-    "main.e23d079d.js.map": "/taxregimeselector/static/js/main.e23d079d.js.map"
+    "main.44a6435f.js.map": "/taxregimeselector/static/js/main.44a6435f.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.e23d079d.js"
+    "static/js/main.44a6435f.js"
   ]
 }
