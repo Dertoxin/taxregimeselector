@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Dertoxin/taxregimeselector/static/css/main.31d6cfe0.css",
+    "main.js": "/Dertoxin/taxregimeselector/static/js/main.e23d079d.js",
+    "index.html": "/Dertoxin/taxregimeselector/index.html",
+    "main.e23d079d.js.map": "/Dertoxin/taxregimeselector/static/js/main.e23d079d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e23d079d.js"
+  ]
+}
