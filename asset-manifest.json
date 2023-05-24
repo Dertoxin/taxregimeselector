@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/taxregimeselector/static/css/main.31d6cfe0.css",
-    "main.js": "/taxregimeselector/static/js/main.cc33bba4.js",
+    "main.js": "/taxregimeselector/static/js/main.f8837347.js",
     "static/media/Posterimg.png": "/taxregimeselector/static/media/Posterimg.afd908abaf18c40e8697.png",
     "index.html": "/taxregimeselector/index.html",
-    "main.cc33bba4.js.map": "/taxregimeselector/static/js/main.cc33bba4.js.map"
+    "main.f8837347.js.map": "/taxregimeselector/static/js/main.f8837347.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.cc33bba4.js"
+    "static/js/main.f8837347.js"
   ]
 }
