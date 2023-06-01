@@ -1,5 +1,3 @@
-/*!payinsu && */
-
 /**
  * @license React
  * react-dom.production.min.js
